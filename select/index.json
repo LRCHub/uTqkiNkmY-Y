@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "STORM",
+  "base_artist": "LUNA SEA",
+  "createdAt": "2026-01-11T09:06:39.304421Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Wolven Storm (Priscilla's Song)",
+      "artist": "Malukah",
+      "has_synced": true,
+      "path": "select/01_The_Wolven_Storm_(Priscilla's_Song)_Malukah.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Every Storm (Runs Out Of Rain)",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/02_Every_Storm_(Runs_Out_Of_Rain)_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Every Storm (Runs Out Of Rain) (Album Version)",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/03_Every_Storm_(Runs_Out_Of_Rain)_(Album_Version)_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Storm of Swords",
+      "artist": "Jedi Mind Tricks feat. Planetary of OuterSpace",
+      "has_synced": true,
+      "path": "select/04_A_Storm_of_Swords_Jedi_Mind_Tricks_feat._Planetary_of_OuterSpace.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Storm Of Swords (ft. Planetary)",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/05_A_Storm_Of_Swords_(ft._Planetary)_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Run Tha Streetz (ft. Michel'le, Storm, Mutah)",
+      "artist": "2Pac feat. Storm, Mutah & Michel'le",
+      "has_synced": true,
+      "path": "select/06_Run_Tha_Streetz_(ft._Michel'le,_Storm,_Mutah)_2Pac_feat._Storm,_Mutah_&_Michel'le.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Into the Storm",
+      "artist": "Lift to Experience",
+      "has_synced": false,
+      "path": "select/07_Into_the_Storm_Lift_to_Experience.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Skin Storm",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/08_Skin_Storm_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Storm In My House",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/09_Storm_In_My_House_Minutemen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ice & the Storm",
+      "artist": "My Brightest Diamond",
+      "has_synced": false,
+      "path": "select/10_Ice_&_the_Storm_My_Brightest_Diamond.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Ice & The Storm",
+      "artist": "My Brightest Diamond",
+      "has_synced": false,
+      "path": "select/11_The_Ice_&_The_Storm_My_Brightest_Diamond.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Weird Storm",
+      "artist": "The Microphones",
+      "has_synced": true,
+      "path": "select/12_Weird_Storm_The_Microphones.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "An Ancient Sign Of Coming Storm",
+      "artist": "Amon Amarth",
+      "has_synced": true,
+      "path": "select/13_An_Ancient_Sign_Of_Coming_Storm_Amon_Amarth.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STORM",
+      "artist": "LUNA SEA",
+      "has_synced": false,
+      "path": "select/pl_01_STORM_LUNA_SEA.txt"
+    }
+  ]
+}
